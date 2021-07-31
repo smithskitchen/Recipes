@@ -2167,9 +2167,10 @@ footer .credits {
 	border-radius: 3%; 
 	border: 1px solid #ddd; 
 	padding: 5px;
+	max-width: 100%;
+    height: auto
+	
 }
 .img-fluid.img-ssk:hover {
 	box-shadow: 0 0 2px 1px #2eca6a;
 }
-
-
